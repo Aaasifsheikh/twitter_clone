@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/twitter_clone/static/css/main.d9abf41c.chunk.css",
+    "main.js": "/twitter_clone/static/js/main.87e16335.chunk.js",
+    "main.js.map": "/twitter_clone/static/js/main.87e16335.chunk.js.map",
+    "runtime-main.js": "/twitter_clone/static/js/runtime-main.4dde12f7.js",
+    "runtime-main.js.map": "/twitter_clone/static/js/runtime-main.4dde12f7.js.map",
+    "static/js/2.1e53df67.chunk.js": "/twitter_clone/static/js/2.1e53df67.chunk.js",
+    "static/js/2.1e53df67.chunk.js.map": "/twitter_clone/static/js/2.1e53df67.chunk.js.map",
+    "index.html": "/twitter_clone/index.html",
+    "precache-manifest.9da68497183a3f92413fa4ee512c55d7.js": "/twitter_clone/precache-manifest.9da68497183a3f92413fa4ee512c55d7.js",
+    "service-worker.js": "/twitter_clone/service-worker.js",
+    "static/css/main.d9abf41c.chunk.css.map": "/twitter_clone/static/css/main.d9abf41c.chunk.css.map",
+    "static/js/2.1e53df67.chunk.js.LICENSE.txt": "/twitter_clone/static/js/2.1e53df67.chunk.js.LICENSE.txt",
+    "static/media/Aasif.jpg.jpg": "/twitter_clone/static/media/Aasif.jpg.bfb88c43.jpg",
+    "static/media/post.jpg.jpeg": "/twitter_clone/static/media/post.jpg.977e5aa8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dde12f7.js",
+    "static/js/2.1e53df67.chunk.js",
+    "static/css/main.d9abf41c.chunk.css",
+    "static/js/main.87e16335.chunk.js"
+  ]
+}
