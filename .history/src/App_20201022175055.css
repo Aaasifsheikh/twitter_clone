@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+.twitter {
+  display: flex;
+}
+.sidebar {
+  width: 25%;
+  position: fixed;
+  
+}
+.sidebar a {
+  text-decoration: none;
+}
+.sidebar li {
+  padding: 20px 30px;
+}

@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+.twitter {
+  display: flex;
+}
+.twitter_icon{
+  color: blue;
+}
+.sidebar {
+  width: 25%;
+  position: fixed;
+  left: 0;
+  height: 100%;
+  border-right: 1px solid #e6ecf0;
+}
+.sidebar ul{
+  list-style-type: none;
+}
+.sidebar a {
+  display: flex;
+  text-decoration: none;
+  color: black;
+  padding: 18px 35px;
+}
+
